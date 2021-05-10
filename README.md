@@ -2,10 +2,10 @@
 1.1 Sept 2016
 
 ## Intro:
-The goal of this script is to exract youtube audio without quality loss.
+The goal of this script is to download and extract Youtube audio *without* quality loss.
 
-Most of the available tools convert/reencode the audio stream which is harmful to quality especially since most of the
-content on youtube has already be reencoded multiple times even before it was uploaded.
+Most of the available tools convert/reencode the audio stream, which is harmful to quality especially since most of the
+content on youtube has already been reencoded multiple times, even before it was uploaded.
 
 `#DeepFriedJpg.jpg`
 
